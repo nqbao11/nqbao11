@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Quy Bao</h1>
 
-<!--
-**nqbao11/nqbao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m interesting in **Machine Learning** and want to be **a ML engineer**
+- ⚡️ Fun-Fact: I love coffee and travel.
+-  📫 Contact me: **nqbao11@gmail.com**
+
+<br />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqbao11&layout=compact&hide=html,css&theme=onedark)
+![](https://github-readme-stats.vercel.app/api?username=nqbao11&show_icons=true&theme=onedark)
+
+<br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqbao11" alt="nqbao11" /> </p>
