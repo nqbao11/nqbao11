@@ -6,7 +6,7 @@
 
 - 🌱 I’m interesting in **Machine Learning** and want to be **a ML engineer**
 - ⚡️ Fun-Fact: I love coffee and travel.
--  📫 Contact me: **nqbao11@gmail.com**
+-  📫 Contact me: **nqbao11.01@gmail.com**
 
 <br />
 
@@ -15,4 +15,4 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqbao11.01" alt="nqbao11.01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nqbao11" alt="nqbao11" /> </p>
